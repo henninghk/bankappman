@@ -1,0 +1,13 @@
+C:\Users\henni\source\repos\bankappman\bankappman\obj\Debug\netcoreapp3.1\bankappman.csprojAssemblyReference.cache
+C:\Users\henni\source\repos\bankappman\bankappman\obj\Debug\netcoreapp3.1\bankappman.AssemblyInfoInputs.cache
+C:\Users\henni\source\repos\bankappman\bankappman\obj\Debug\netcoreapp3.1\bankappman.AssemblyInfo.cs
+C:\Users\henni\source\repos\bankappman\bankappman\obj\Debug\netcoreapp3.1\bankappman.csproj.CoreCompileInputs.cache
+C:\Users\henni\source\repos\bankappman\bankappman\bin\Debug\netcoreapp3.1\bankappman.exe
+C:\Users\henni\source\repos\bankappman\bankappman\bin\Debug\netcoreapp3.1\bankappman.deps.json
+C:\Users\henni\source\repos\bankappman\bankappman\bin\Debug\netcoreapp3.1\bankappman.runtimeconfig.json
+C:\Users\henni\source\repos\bankappman\bankappman\bin\Debug\netcoreapp3.1\bankappman.runtimeconfig.dev.json
+C:\Users\henni\source\repos\bankappman\bankappman\bin\Debug\netcoreapp3.1\bankappman.dll
+C:\Users\henni\source\repos\bankappman\bankappman\bin\Debug\netcoreapp3.1\bankappman.pdb
+C:\Users\henni\source\repos\bankappman\bankappman\obj\Debug\netcoreapp3.1\bankappman.dll
+C:\Users\henni\source\repos\bankappman\bankappman\obj\Debug\netcoreapp3.1\bankappman.pdb
+C:\Users\henni\source\repos\bankappman\bankappman\obj\Debug\netcoreapp3.1\bankappman.genruntimeconfig.cache
